@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on ambitious projects with a diverse and interesting culture
 - 📫 How to reach me: benjaminmq2013@gmail.com and my web site: https://benjaminmq2013.github.io/
 
-<!---
-Benjaminmq2013/Benjaminmq2013 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🚨 Lastest Blog Posts
+
+[website]: https://medium.com/p/22c871d6fbd9/edit
+
+
