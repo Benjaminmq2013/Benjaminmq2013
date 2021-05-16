@@ -8,6 +8,9 @@ zz
 <br />
 
 ### 🚨 Lastest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
 [website]: https://medium.com/p/22c871d6fbd9/edit
 
