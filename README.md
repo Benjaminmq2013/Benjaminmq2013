@@ -7,7 +7,7 @@
 
 <br />
 
-### 🚨 Lastest Blog Posts
-https://medium.com/
+### 🚨 Lastest Posts in my LinkedIn
+https://www.linkedin.com/in/adriel-benjamin-martinez-quintanilla
 
 
